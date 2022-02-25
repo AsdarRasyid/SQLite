@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="idEdtCourseNama" type="id" />
+    <item name="idEdtCourseNim" type="id" />
+    <item name="idEdtCourseJurusan" type="id" />
+    <item name="idEdtCourseFakultas" type="id" />
+</resources>
