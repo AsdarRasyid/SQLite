@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         // initializing all our variables.
-        courseNamaEdt = findViewById(R.id.idEdtC    ourseNama);
+        courseNamaEdt = findViewById(R.id.idEdtCourseNama);
         courseNimEdt = findViewById(R.id.idEdtCourseNim);
         courseJurusanEdt = findViewById(R.id.idEdtCourseJurusan);
         courseFakultasEdt = findViewById(R.id.idEdtCourseFakultas);
